@@ -5,7 +5,7 @@ Task3: Issue A Smart Contract Call To The Deployed Smart Contract
 Submitter: Soptq
 
 ## A screenshot of the console output immediately after you have successfully issued a smart contract call.
-![Call](call.png?raw=true "Call")
+![Contract Call](contract-call.png?raw=true "Contract Call")
 
 ## The transaction hash from the console output (in text format).
 
